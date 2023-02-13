@@ -1,4 +1,6 @@
-# Apache2
+Prerequistes:
+Setup Ansible on Virtual Machine with Boto
+
 
 Create a new directory: 
 ### mkdir Ansible
