@@ -1,2 +1,9 @@
 [web-servers]
+
+
 my-web-server ansible_host=<IP address>
+
+[linkx:vars]
+
+ansible_user=
+ansible_password=
