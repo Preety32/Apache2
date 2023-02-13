@@ -1,0 +1,2 @@
+[web-servers]
+my-web-server ansible_host=<IP address>
