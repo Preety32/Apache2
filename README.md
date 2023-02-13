@@ -12,3 +12,5 @@ Create a new file:
 Move to new file: 
 ### cd ansible.cfg
 
+run the playbook:
+### ansible-playbook apache2.yml
